@@ -12,7 +12,7 @@ $ npm run install
 $ npm run dev
 ```
 
-* Load the server in a Chrome, with dev tools open to the navigation tab
+* Open the site in Chrome, with dev tools open to the navigation tab
 * Click on the link to "foo" - see that "head-script.js" is loaded
 * Click on the link to "index"
 * Click on the link to "foo" - see that "head-script.js" is loaded again
