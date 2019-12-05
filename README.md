@@ -1,0 +1,1 @@
+# nuxt-vue-meta-bug
