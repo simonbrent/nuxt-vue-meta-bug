@@ -12,6 +12,12 @@
         src  : '/head-script.js',
         once : true,
       }],
+      link: [{
+        hid  : 'head-style',
+        rel  : 'stylesheet',
+        href : '/head-style.css',
+        once : true,
+      }],
     }),
   }
 </script>
