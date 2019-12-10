@@ -8,8 +8,9 @@
   export default {
     head: () => ({
       script: [{
-        vmid : 'head-script',
+        hid  : 'head-script',
         src  : '/head-script.js',
+        once : true,
       }],
     }),
   }
